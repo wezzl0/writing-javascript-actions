@@ -1,0 +1,23 @@
+{
+  "name": "writing-javascript-actions",
+  "version": "1.0.0",
+  "description": "In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom JavaScript based GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wezzl0/writing-javascript-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wezzl0/writing-javascript-actions/issues"
+  },
+  "homepage": "https://github.com/wezzl0/writing-javascript-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.8.2"
+  }
+}
