@@ -18,7 +18,7 @@ async function run() {
     
   await core.summary
     .addHeading('READMEGEN')
-    .addRAW("\n\n*\n\nTest")
+    .addRaw("\n\n*\n\nTest")
     .write()
   } catch (err) {
       core.setFailed(err.message);
