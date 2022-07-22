@@ -10,6 +10,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
+      
+      - name: pogpogpog
+        run: echo "${{ format('{0} [Release Automation PR]', github.event.pull_request.head.ref) }}"
 
       - name: hello-action
         uses: ./.github/actions/hello-world
