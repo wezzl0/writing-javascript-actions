@@ -2,17 +2,7 @@
 
 ### Getting started
 
-In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom JavaScript based GitHub Actions.
-
-You may be asking yourself, "is JavaScript the only way to create custom GitHub Actions?"
-
-Currently, there are **two** supported ways to create your own GitHub Actions:
-
-- [Docker container actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#docker-container-actions)
-- [JavaScript actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#javascript-actions)
-
-As you can see we aren't necessarily limited to JavaScript even though it is the focal point for this course.
-
+In this repository we will be diving into the world of writing GitHub Actions! I will guide you through the process of writing a custom JavaScript based GitHub sdf
 ---
 
 ### Creating vs consuming actions
